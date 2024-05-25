@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on **Bsc Computing and Software Engineering**
 
-- 🌱 I’m currently learning **C++, Java, Python, React Native**
+- 🌱 I’m currently learning **C++, Java, Python, React Native,HTML,CSS,JavaScript,PhP,Mobile Application**
 
 - 📫 How to reach me **fsaja8627@gmail.com**
 
